@@ -11,6 +11,11 @@ Mini Compiler IF-ELSE merupakan program sederhana yang dibuat menggunakan Python
 
 Konstruksi sintaksis yang dipilih pada implementasi ini adalah **percabangan IF-ELSE**.
 
+# Mahasiswa
+Nama: M. Akbar khadafi.A
+NIM: 231011401717
+kelas: 06TPLM002
+
 ---
 
 # Grammar (BNF)
